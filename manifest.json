@@ -1,0 +1,27 @@
+{
+  "run_id": "20261112T131913Z-2a7980b9",
+  "started_at": "2026-11-12T13:19:13.993795+00:00",
+  "garak_version": "0.17.1",
+  "target_type": "huggingface",
+  "target_name": "gpt2",
+  "probes": "lmrc.Profanity",
+  "generations": 1,
+  "threshold": 0.5,
+  "state": "completed",
+  "garak_arguments": [
+    "--target_type",
+    "huggingface",
+    "--target_name",
+    "gpt2",
+    "--probes",
+    "lmrc.Profanity",
+    "--generations",
+    "1",
+    "--eval_threshold",
+    "0.5",
+    "--report_prefix",
+    "C:\\Users\\Lenovo\\Documents\\RedTeamResults\\20261112T131913Z-2a7980b9\\scan"
+  ],
+  "exit_code": 0,
+  "finished_at": "2026-11-12T13:20:01.844264+00:00"
+}
